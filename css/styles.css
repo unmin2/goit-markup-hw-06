@@ -680,3 +680,31 @@ ul {
   width: 24px;
   height: 24px;
 }
+.footer-form {
+  margin-left: 80px;
+}
+.label-footer {
+  width: 264px;
+  height: 40px;
+  background-color: var(--title-text-color);
+  border: 1px solid #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+  border-radius: 4px;
+}
+.button-tg {
+  width: 165px;
+  height: 40px;
+  background: #4d5ae5;
+  border-radius: 4px;
+
+  padding: 0;
+}
+.icon-tg {
+  display: inline-block;
+  width: 24px;
+  height: 20px;
+  margin-right: 16px;
+}
+.tg {
+  fill: #ffffff;
+}
