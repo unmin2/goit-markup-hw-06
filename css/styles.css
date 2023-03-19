@@ -866,6 +866,7 @@ ul {
   border: 0;
   padding: 0;
   text-align: center;
+  cursor: pointer;
 }
 .label-text {
   color: #ffffff;
@@ -892,4 +893,8 @@ ul {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+.footer-div {
+  display: flex;
+  margin-left: auto;
 }
